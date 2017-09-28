@@ -46,16 +46,16 @@ assets:
     - assets/stylesheets
 
 # Build settings
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - README.md
 
 gems:
   - jekyll-feed
   - jekyll-assets
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
 
 include: [_pages]
