@@ -15,12 +15,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Walter Shub
 tagline: Software Engineer
-about-description: I have experience with building Fullstack web and mobile applications
- using Javascript , Node, React, Redux , and React Native.
- I am thrilled by new challenges and by expanding my skills through
- learning new technologies or experimenting with new platforms.
- I choose my technologies based on the best way to complete the job and not what's in my comfort zone.
- I am constantly trying new things in my applications and bring a feeling of excitement and possibility to the teams I have worked on.
+about-description: 
 pic: walt.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
@@ -45,7 +40,7 @@ assets:
     - assets/js
     - assets/stylesheets
 
-#Build settings
+# Build settings
 
 exclude:
   - Gemfile
