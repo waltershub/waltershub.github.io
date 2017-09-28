@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Sample post with all elements"
-description: Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit Sed Do Eiusmod Tempor Incidi
+title:  Location Tracker
+description: Location Tracker Clone
 img:
-date: 2017-03-07  +0200
+date: 2017-02-27 14:55:52 +0200
+url: https://github.com/waltershub/locationTracker
 ---
 
 ## Headings

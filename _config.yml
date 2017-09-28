@@ -1,26 +1,35 @@
-title: Wendell Thomas
+title: Walter Shub
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/monday" # the subpath of your site, e.g. /blog
+  I have experience with building Fullstack web and mobile applications
+   using Javascript , Node, React, Redux , and React Native.
+   I am thrilled by new challenges and by expanding my skills through
+   learning new technologies or experimenting with new platforms.
+   I choose my technologies based on the best way to complete the job and not what's in my comfort zone.
+   I am constantly trying new things in my applications and bring a feeling of excitement and possibility to the teams I have worked on.
+
+baseurl: "/post" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Wendell Thomas
-tagline: Full Stack Developer
-about-description: # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+name: Walter Shub
+tagline: Software Engineer
+about-description: I have experience with building Fullstack web and mobile applications
+ using Javascript , Node, React, Redux , and React Native.
+ I am thrilled by new challenges and by expanding my skills through
+ learning new technologies or experimenting with new platforms.
+ I choose my technologies based on the best way to complete the job and not what's in my comfort zone.
+ I am constantly trying new things in my applications and bring a feeling of excitement and possibility to the teams I have worked on.
+pic: walt.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+email: waltershub@gmail.com # Add your Email address
+phone: 848 299 9294 # Add your Phone number
+website: waltershub.com # Add your website, do not add http://
+linkedin: walter-shub-474823
+github: waltershub # Add your Github handle
+twitter: '@waltershub' # Add your Twitter handle
 
 # Tracker
 analytics:
