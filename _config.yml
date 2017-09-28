@@ -45,7 +45,8 @@ assets:
     - assets/js
     - assets/stylesheets
 
-Build settings
+Build settings:
+  
 exclude:
   - Gemfile
   - Gemfile.lock
