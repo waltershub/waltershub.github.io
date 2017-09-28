@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
    I choose my technologies based on the best way to complete the job and not what's in my comfort zone.
    I am constantly trying new things in my applications and bring a feeling of excitement and possibility to the teams I have worked on.
 
-baseurl: "/webpage" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "/webpage" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
