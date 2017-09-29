@@ -7,7 +7,7 @@ date:   2017-02-27 14:55:52 +0200
 
 ---
 
-## [Browser based device tracking software](https://github.com/waltershub/locationTracker)
+## [Try My mobile App on Expo](https://exp.host/@waltershub/OurCity)
 
 A civic engagement mobile App allowing users to post proposals and solutions
 Team of four developers
