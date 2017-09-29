@@ -1,0 +1,14 @@
+---
+layout: post
+title:  HalfWaze
+description: Allows users to find places to meet in-between their locations
+img: halfwaze.png
+date:   2017-02-27 14:55:52 +0200
+categories: jekyll update
+---
+
+## [HalfWaze Repo](https://github.com/CharmingChimps/Halfwaze)
+
+*	Integrated Yelp Autosuggest into search component for user convenience
+*	Added a location button with user perceived speed improvements
+*	Managed Git workflow
